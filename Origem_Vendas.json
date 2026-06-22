@@ -1,0 +1,29 @@
+{
+    "origens": [
+        {
+            "origem": "ATIVO",
+            "valor": 1121090.93,
+            "quantidade": 25
+        },
+        {
+            "origem": "LEAD",
+            "valor": 128878.74,
+            "quantidade": 8
+        },
+        {
+            "origem": "LEAD FACE",
+            "valor": 66577.38,
+            "quantidade": 6
+        },
+        {
+            "origem": "PROSPECCAO",
+            "valor": 4754.87,
+            "quantidade": 4
+        },
+        {
+            "origem": "REATIVACAO",
+            "valor": 4933.77,
+            "quantidade": 2
+        }
+    ]
+}
